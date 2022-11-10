@@ -20,7 +20,7 @@ Section:NewButton("Car Dealership Tycoon", "กดเพื่อใช้สค
 end)
 local Section = Tab:NewSection("DOORS")
 Section:NewButton("DOORS", "กดเพื่อใช้สคริป", function()
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Doors/Script.lua"))()
+     loadstring(game:HttpGet(('https://pastebin.com/raw/rysGLM7U')))()
 end)
 local Section = Tab:NewSection("GUI")
 Section:NewKeybind("off Gui", "off GUI", Enum.KeyCode.F, function()
